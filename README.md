@@ -19,7 +19,7 @@
 ### 青龙拉库
 
 ```
-ql repo https://github.com/deerwan/ql.git
+ql repo https://github.com/deerwan/ql.git "" "Backup" "" "" "js|sh|py"
 ```
 
 
