@@ -11,10 +11,14 @@
 
 ### 交流
 
-企鹅交流群&nbsp;&nbsp;<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=2q1-h1rBeuMoAIBrHCOaa36yZh1hmUmZ&jump_from=webapi&authKey=oiGsorh0pWFCjvBaIbOrPdwNHSXD/X8H3tRdWJ090mslUT5v+oFzjg8cWF7M0Ktv"><img border="0" src="https://img.tukuppt.com/png_preview/00/40/12/mbJ6HJWIde.jpg!/fw/780" alt="交流群" title="交流群"></a>
+企鹅交流群&nbsp;&nbsp;<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=eZkxI5CjWQVdW1qdmIxREidMyDQPfU-I&jump_from=webapi&authKey=MDsOsr7yFYYoqbEhSqnzJ0tA4ShjQzXk+AQEA25r3tf/5FJmUTYkILIWmQ/aK6Qf"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="反馈2群" title="反馈2群"></a>
 &nbsp;&nbsp;&nbsp;电报频道&nbsp;&nbsp;<a href="https://t.me/mrdeer7"><img alt="Telegram" src="https://img.shields.io/badge/chat-telegram-blue.svg?logo=telegram&style=flat-square"/></a> 
 &nbsp;&nbsp;&nbsp;交流群&nbsp;&nbsp;[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc)](https://t.me/mrdeer77)
 
+
+### 更新日志
+
+- **2026-06-21** 新增 ikuuu 机场签到脚本
 
 ### 青龙拉库
 
