@@ -1,6 +1,6 @@
 # ikuuu 青龙面板签到脚本
 
-自动登录 ikuuu.win 并完成每日签到，支持多账号。
+自动登录 ikuuu.top 并完成每日签到，支持多账号。
 
 ## 文件
 - `ikuuu_checkin.py` — 主脚本（Playwright 浏览器过极验验证码 + 签到）
@@ -26,7 +26,7 @@
 | 变量 | 说明 |
 |---|---|
 | `IKUUU_ACCOUNTS` | `email1:pass1,email2:pass2`（必填） |
-| `IKUUU_DOMAIN` | 域名，默认 `ikuuu.win`（可选） |
+| `IKUUU_DOMAIN` | 域名，默认 `ikuuu.top`（可选，脚本自动尝试备用域名） |
 | `IKUUU_BROWSER` | `chrome`/`msedge` 指定系统浏览器（可选，默认用 Playwright chromium） |
 
 ## 常见问题

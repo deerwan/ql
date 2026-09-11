@@ -27,6 +27,7 @@
 - **2026-06-22** 新增 [花木仓每日签到](./huamucang_checkin.py)，支持 Cookie/Token/用户名密码三种认证方式
 - **2026-07-03** 新增 [anyrouter 签到脚本](./anyrouter/anyrouter_checkin.py)，支持多账号签到
 - **2026-07-25** 重写 [ikuuu 签到脚本](./ikuuu/ikuuu_checkin.py)：移除伪造极验 token（signer.py），改用 Playwright 无头浏览器真实点击过验证码，详见 [ikuuu/README.md](./ikuuu/README.md)
+- **2026-09-11** 优化 [ikuuu 签到脚本](./ikuuu/ikuuu_checkin.py)：修复登录失败问题，默认域名改为 ikuuu.top（ikuuu.win 已失效），增加多域名自动切换（ikuuu.top→ikuuu.pw→ikuuu.org→ikuuu.me），移除 API 登录方式直接改用浏览器登录
 
 <!-- ... existing code ... -->
 
